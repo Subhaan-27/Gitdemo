@@ -6,3 +6,4 @@ kaffe sukker
 sodavand
 chips
 matadormix
+kiwi
