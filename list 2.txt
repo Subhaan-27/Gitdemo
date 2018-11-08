@@ -9,4 +9,5 @@ matadormix
 kiwi
 bananer
 æbler
+tomater
 
