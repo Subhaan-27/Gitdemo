@@ -1,4 +1,5 @@
 Inkøbsliste
+juice
 Brød
 kaffe
 kaffe fløde
