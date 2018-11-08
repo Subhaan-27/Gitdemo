@@ -11,4 +11,5 @@ kiwi
 bananer
 æbler
 tomater
+mælk
 
